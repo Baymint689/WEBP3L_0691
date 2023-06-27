@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+.bg {
+  background-color: #f8f9fa;
+  background-image: url("https://asset.kompas.com/crops/Z9MXNH5qIUxpUEb1qotfRN_Uyi8=/0x0:750x500/750x500/data/photo/2021/04/26/608696cd6eb85.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+* {
+  font-family: "Poppins";
+}
